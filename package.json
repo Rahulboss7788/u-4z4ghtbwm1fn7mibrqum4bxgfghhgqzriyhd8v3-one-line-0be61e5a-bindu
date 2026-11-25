@@ -1,0 +1,1 @@
+{"description":"One Line, One Laugh — a single original funny line written to /output/entry.txt","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a-bindu","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
